@@ -6,6 +6,8 @@ struct ptr{
     unsigned int length;
 };
 
+int compare_rotations(const void *a, const void *b);
+
 struct ptr *rle_encode(struct ptr *input);
 
 struct ptr *rle_decode(struct ptr *input);
