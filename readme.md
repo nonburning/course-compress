@@ -1,1 +1,1 @@
-# It's fking awesome!
+# It's just a compression
